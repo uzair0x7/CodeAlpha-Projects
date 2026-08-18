@@ -2,16 +2,16 @@
 
 # Code Alpha — Full Stack Development Internship
 
-<img src="https://img.shields.io/badge/Code%20Alpha-Full%20Stack%20Development-ba80ff?style=for-the-badge" alt="Code Alpha">
-<img src="https://img.shields.io/badge/Status-In%20Progress-F0DB4F?style=for-the-badge" alt="Status">
+[![Code Alpha](https://img.shields.io/badge/Code%20Alpha-Full%20Stack%20Development-ba80ff?style=for-the-badge)](https://www.codealpha.tech/)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-F0DB4F?style=for-the-badge)](#)
 
-<br><br>
+<br>
 
 A collection of full-stack projects, tasks, and practical implementations developed during my **Full Stack Development Internship at Code Alpha**.
 
 <br>
 
-<a href="#overview">Overview</a> • <a href="#projects">Projects</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#learning-outcomes">Learning Outcomes</a> • <a href="#author">Author</a>
+[Overview](#overview) • [Projects](#projects) • [Tech Stack](#tech-stack) • [Learning Outcomes](#learning-outcomes) • [Author](#author)
 
 </div>
 
@@ -52,41 +52,25 @@ Throughout the internship, I am strengthening my ability to design, develop, int
 
 ### Frontend
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-
-</div>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
 
 ### Backend
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-
-</div>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)](https://expressjs.com/)
 
 ### Database
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-
-</div>
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/)
 
 ### Tools
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-
-</div>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](https://www.postman.com/)
 
 > Additional technologies and services will be added as they are introduced throughout the internship.
 
@@ -209,18 +193,12 @@ This section will be updated as new internship projects and tasks are completed.
 
 Full Stack Developer · Computer Science Student
 
-<br>
-
-<a href="https://github.com/uzair0x7">
-<img src="https://img.shields.io/badge/GitHub-uzair0x7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-uzair0x7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/uzair0x7)
 
 <br><br>
 
 ---
 
-<sub>
-Built, learned, and documented throughout my Code Alpha Full Stack Development Internship.
-</sub>
+<sub>Built, learned, and documented throughout my Code Alpha Full Stack Development Internship.</sub>
 
 </div>
