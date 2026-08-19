@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # 🛒 CodeAlpha E-Commerce Website
