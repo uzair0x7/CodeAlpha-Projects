@@ -103,7 +103,7 @@ VS Code
 
 |    #   | Project                        | Description                    | Stack                                                    |     Status     |
 | :----: | :----------------------------- | :----------------------------- | :------------------------------------------------------- | :------------: |
-| **01** | **CodeAplha_Ecomerce-Website** | Full-stack e-commerce platform | HTML · CSS · JavaScript · Node.js · Express.js · MongoDB | 🟢 In Progress |
+| **01** | **CodeAplha_Ecomerce-Website** | Full-stack e-commerce platform | HTML · CSS · JavaScript · Node.js · Express.js · MongoDB | 🟢 Done        |
 | **02** | **CodeAplha_project-name**     | Upcoming internship project    | TBD                                                      |   ⚪ Upcoming   |
 | **03** | **CodeAplha_project-name**     | Upcoming internship project    | TBD                                                      |   ⚪ Upcoming   |
 
