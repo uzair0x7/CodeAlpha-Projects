@@ -508,29 +508,6 @@ The current architecture can be further strengthened for production with:
 
 ---
 
-## Future Improvements
-
-Potential future enhancements include:
-
-* [ ] Admin dashboard
-* [ ] Admin product management
-* [ ] Product search
-* [ ] Category filtering
-* [ ] Advanced product filtering
-* [ ] Product reviews and ratings
-* [ ] Wishlist functionality
-* [ ] Stripe payment integration
-* [ ] Email order confirmations
-* [ ] Inventory management
-* [ ] Pagination
-* [ ] Product image uploads
-* [ ] Order status tracking
-* [ ] Admin authentication and authorization
-* [ ] User profile management
-* [ ] More advanced GSAP animations
-* [ ] Scroll-triggered animations
-
----
 
 ## Code Alpha Internship
 

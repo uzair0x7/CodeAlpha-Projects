@@ -1,4 +1,4 @@
-````markdown id="q7m4x2"
+
 <div align="center">
 
 # Code Alpha — Full Stack Development Internship
