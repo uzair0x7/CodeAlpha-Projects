@@ -1,6 +1,6 @@
 Here is the complete `README.md` with your **GitHub repository** and **LinkedIn profile** added to the project. I also verified the repository URL you provided. ([GitHub][1])
 
-````markdown
+
 # FlowBoard
 
 > A full-stack project management and team collaboration platform inspired by tools like Trello and Asana.
@@ -739,4 +739,4 @@ You are free to use, modify, and distribute the project according to the terms o
 <p align="center">
   ⭐ If you found this project useful, consider giving the repository a star!
 </p>
-```
+
