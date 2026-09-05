@@ -740,7 +740,3 @@ You are free to use, modify, and distribute the project according to the terms o
   ⭐ If you found this project useful, consider giving the repository a star!
 </p>
 ```
-
-The repository itself is currently public and identifies you as **Uzair Ali**, with the Code Alpha internship context already present in the repo. ([GitHub][1])
-
-[1]: https://github.com/uzair0x7/CodeAlpha-Projects "GitHub - uzair0x7/CodeAlpha-Projects: Full-stack projects and tasks developed during my Code Alpha internship, showcasing practical experience with modern web development, APIs, databases, authentication, and responsive interfaces. · GitHub"
