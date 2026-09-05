@@ -1,7 +1,15 @@
-Here is the complete `README.md` with your **GitHub repository** and **LinkedIn profile** added to the project. I also verified the repository URL you provided. ([GitHub][1])
 
+<div align="center">
 
 # FlowBoard
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 > A full-stack project management and team collaboration platform inspired by tools like Trello and Asana.
 
