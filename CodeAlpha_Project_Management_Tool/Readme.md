@@ -691,7 +691,7 @@ screenshots/
 Example:
 
 ```markdown
-![Dashboard](https://github.com/uzair0x7/CodeAlpha-Projects/blob/main/screenshots/dashboard.png)
+![Dashboard](https://github.com/uzair0x7/CodeAlpha-Projects/blob/main/CodeAlpha_Project_Management_Tool/screenshots/dashboard.png)
 
 ![Kanban Board](./screenshots/board.png)
 
