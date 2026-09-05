@@ -692,7 +692,7 @@ screenshots/
 
 ![Dashboard](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/dashboard.png)
 
-![Kanban Board](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/board.png)
+![Notifications](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/Notification1.png)
 
 ![Task Details](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/taskdetail.png)
 
