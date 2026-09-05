@@ -691,11 +691,11 @@ screenshots/
 Example:
 
 ```markdown
-![Dashboard](https://github.com/uzair0x7/CodeAlpha-Projects/blob/main/CodeAlpha_Project_Management_Tool/screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/dashboard.png)
 
-![Kanban Board](./screenshots/board.png)
+![Kanban Board](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/board.png)
 
-![Task Details](./screenshots/task-detail.png)
+![Task Details](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/taskdetail.png)
 ```
 
 ---
