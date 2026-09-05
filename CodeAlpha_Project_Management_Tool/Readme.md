@@ -683,20 +683,19 @@ Add screenshots of the application here once available.
 screenshots/
 ├── dashboard.png
 ├── board.png
-├── task-detail.png
+├── taskdetail.png
 ├── notifications.png
-└── authentication.png
+└── Login.png
 ```
 
-Example:
+## Screenshots
 
-```markdown
 ![Dashboard](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/dashboard.png)
 
 ![Kanban Board](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/board.png)
 
 ![Task Details](https://raw.githubusercontent.com/uzair0x7/CodeAlpha-Projects/main/CodeAlpha_Project_Management_Tool/screenshots/taskdetail.png)
-```
+
 
 ---
 
