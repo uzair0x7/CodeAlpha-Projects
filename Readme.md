@@ -260,38 +260,6 @@ This section will be continuously updated throughout the internship.
 
 ---
 
-# Current Project
-
-## 🛒 CodeAplha_Ecomerce-Website
-
-**Status:** `In Progress`
-
-A full-stack e-commerce platform featuring:
-
-* Product browsing
-* Product details
-* User registration
-* User authentication
-* JWT authentication
-* Shopping cart
-* Persistent cart storage
-* Checkout workflow
-* Order creation
-* Order history
-* REST APIs
-* MongoDB integration
-* Responsive frontend
-
-### Stack
-
-```text
-Frontend  → HTML5 · CSS3 · JavaScript
-Backend   → Node.js · Express.js
-Database  → MongoDB · Mongoose
-Auth      → JWT
-Storage   → localStorage
-```
-
 ---
 
 # Internship Details
