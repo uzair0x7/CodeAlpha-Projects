@@ -251,9 +251,9 @@ Documenting projects clearly so they can be understood, configured, tested, and 
 
 | Metric                   |    Progress   |
 | :----------------------- | :-----------: |
-| **Projects Completed**   |      `0`      |
+| **Projects Completed**   |      `2`      |
 | **Projects In Progress** |      `1`      |
-| **Upcoming Projects**    |      `2+`     |
+| **Upcoming Projects**    |      `1`     |
 | **Internship Status**    | `In Progress` |
 
 This section will be continuously updated throughout the internship.
