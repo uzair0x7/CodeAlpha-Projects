@@ -104,7 +104,7 @@ VS Code
 |    #   | Project                        | Description                    | Stack                                                    |     Status     |
 | :----: | :----------------------------- | :----------------------------- | :------------------------------------------------------- | :------------: |
 | **01** | **CodeAplha_Ecomerce-Website** | Full-stack e-commerce platform | HTML · CSS · JavaScript · Node.js · Express.js · MongoDB | 🟢 Done        |
-| **02** | **CodeAplha_project-name**     | Upcoming internship project    | TBD                                                      |   ⚪ Upcoming   |
+| **02** | **CodeAlpha_Project_Management_Tool** | Full-stack project management platform   | TBD                                |   🟢 Done   |
 | **03** | **CodeAplha_project-name**     | Upcoming internship project    | TBD                                                      |   ⚪ Upcoming   |
 
 > Project information, screenshots, technologies, features, API documentation, and deployment links will be updated as each project progresses.
